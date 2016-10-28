@@ -1,0 +1,2 @@
+obuild configure
+obuild build
