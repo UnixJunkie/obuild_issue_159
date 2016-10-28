@@ -1,0 +1,10 @@
+Name: test
+Version: 1.0
+Authors: Me
+License: BSD
+Synopsis: obuild issue 159 reproducing case for osx
+obuild-ver: 1
+
+Executable test
+  src-dir: .
+  main-is: main.ml
